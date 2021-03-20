@@ -1,0 +1,7 @@
+.logo_place_header {
+  background-image: url(../../../images/logos/__yandex-praktikum/_place/logos__yandex-praktikum_place_header.svg);
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 2;
+}
